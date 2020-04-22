@@ -12,3 +12,4 @@ Source Repository from JakeVDP: https://github.com/jakevdp/PythonDataScienceHand
   * [Download Anaconda here](https://www.anaconda.com/distribution/)
 
 * [Lesson 1](https://youtu.be/vDvbVWg-PfU) - 16 APR 2020
+* [Lesson 2](https://youtu.be/-6ny70l_F3Q) - 23 APR 2020
