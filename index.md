@@ -15,3 +15,4 @@ Source Repository from JakeVDP: https://github.com/jakevdp/PythonDataScienceHand
 * [Lesson 2](https://youtu.be/-6ny70l_F3Q) - 23 APR 2020
 * [Lesson 3](https://youtu.be/W37ynqSDOyI) - 30 APR 2020
 * [Lesson 4](https://youtu.be/Z2Ig2T-7TlM) - 7 MAY 2020
+* [Lesson 5](https://youtu.be/gOj0d6Y9ewU) - 14 MAY 2020
